@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+*.class
+x64/
+Debug/
+Release/
+
+# IDE
+.idea/
+.vs/
+.code/
+.vscode/
+*.user
+cmake-build-debug/
+cmake-build-release/
